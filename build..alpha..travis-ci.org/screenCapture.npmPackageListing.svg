@@ -1,33 +1,33 @@
 <svg height="478" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="478" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 07:11:47 +0000   115044 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 07:11:47 +0000     3744 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 07:11:47 +0000     8693 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 07:11:47 +0000     1075 bytes  LICENSE-MIT</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 07:11:47 +0000    18383 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 07:11:47 +0000      172 bytes  bower.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 07:11:47 +0000     6719 bytes  dist/loglevel.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 07:11:47 +0000     2401 bytes  dist/loglevel.min.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 07:11:47 +0000     6742 bytes  lib/loglevel.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 07:11:47 +0000     3087 bytes  package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 07:11:47 +0000     3359 bytes  test/console-fallback-test.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 07:11:47 +0000     4275 bytes  test/cookie-test.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 07:11:47 +0000     1923 bytes  test/default-level-test.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 07:11:47 +0000     1521 bytes  test/get-current-level-test.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 07:11:47 +0000     1045 bytes  test/global-integration-with-new-context.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 07:11:47 +0000      734 bytes  test/global-integration.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 07:11:47 +0000     2409 bytes  test/integration-smoke-test.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 07:11:47 +0000     8078 bytes  test/level-setting-test.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 07:11:47 +0000     7156 bytes  test/local-storage-test.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 07:11:47 +0000      153 bytes  test/manual-test.html</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 07:11:47 +0000     1789 bytes  test/method-factory-test.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 07:11:47 +0000     4926 bytes  test/multiple-logger-test.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 07:11:47 +0000      818 bytes  test/node-integration.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 07:11:47 +0000      148 bytes  test/test-context-using-apply.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 07:11:47 +0000     5238 bytes  test/test-helpers.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 07:11:47 +0000      554 bytes  test/test-qunit.html</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 07:11:47 +0000     1886 bytes  test/test-qunit.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 07:11:47 +0000    18016 bytes  test/vendor/json2.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 05:40:38 +0000   115044 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 05:40:38 +0000     3744 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 05:40:38 +0000     8693 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 05:40:38 +0000     1075 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 05:40:38 +0000    18383 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 05:40:38 +0000      172 bytes  bower.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 05:40:38 +0000     6719 bytes  dist/loglevel.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 05:40:38 +0000     2401 bytes  dist/loglevel.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 05:40:38 +0000     6742 bytes  lib/loglevel.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 05:40:38 +0000     3087 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 05:40:38 +0000     3359 bytes  test/console-fallback-test.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 05:40:38 +0000     4275 bytes  test/cookie-test.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 05:40:38 +0000     1923 bytes  test/default-level-test.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 05:40:38 +0000     1521 bytes  test/get-current-level-test.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 05:40:38 +0000     1045 bytes  test/global-integration-with-new-context.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 05:40:38 +0000      734 bytes  test/global-integration.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 05:40:38 +0000     2409 bytes  test/integration-smoke-test.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 05:40:38 +0000     8078 bytes  test/level-setting-test.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 05:40:38 +0000     7156 bytes  test/local-storage-test.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 05:40:38 +0000      153 bytes  test/manual-test.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 05:40:38 +0000     1789 bytes  test/method-factory-test.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 05:40:38 +0000     4926 bytes  test/multiple-logger-test.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 05:40:38 +0000      818 bytes  test/node-integration.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 05:40:38 +0000      148 bytes  test/test-context-using-apply.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 05:40:38 +0000     5238 bytes  test/test-helpers.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 05:40:38 +0000      554 bytes  test/test-qunit.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 05:40:38 +0000     1886 bytes  test/test-qunit.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 05:40:38 +0000    18016 bytes  test/vendor/json2.js</tspan>
 </text>
 </svg>
