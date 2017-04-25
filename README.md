@@ -1,6 +1,6 @@
 # npmtest-loglevel
 
-#### test coverage for  [loglevel (v1.4.1)](https://github.com/pimterry/loglevel)  [![npm package](https://img.shields.io/npm/v/npmtest-loglevel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-loglevel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-loglevel.svg)](https://travis-ci.org/npmtest/node-npmtest-loglevel)
+#### basic test coverage for  [loglevel (v1.4.1)](https://github.com/pimterry/loglevel)  [![npm package](https://img.shields.io/npm/v/npmtest-loglevel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-loglevel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-loglevel.svg)](https://travis-ci.org/npmtest/node-npmtest-loglevel)
 
 #### Minimal lightweight logging for JavaScript, adding reliable log level methods to any available console.log methods
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-loglevel/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-loglevel/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-loglevel/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-loglevel/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-loglevel/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-loglevel/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-loglevel/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-loglevel/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-loglevel/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-loglevel/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-loglevel/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-loglevel/build/coverage.html/index.html)
 
@@ -101,7 +101,8 @@
         "ci": "grunt ci",
         "test": "grunt test"
     },
-    "version": "1.4.1"
+    "version": "1.4.1",
+    "bin": {}
 }
 ```
 

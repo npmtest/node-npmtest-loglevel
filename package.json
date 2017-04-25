@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [loglevel (v1.4.1)](https://github.com/pimterry/loglevel)  [![npm package](https://img.shields.io/npm/v/npmtest-loglevel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-loglevel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-loglevel.svg)](https://travis-ci.org/npmtest/node-npmtest-loglevel)",
+    "description": "#### basic test coverage for  [loglevel (v1.4.1)](https://github.com/pimterry/loglevel)  [![npm package](https://img.shields.io/npm/v/npmtest-loglevel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-loglevel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-loglevel.svg)](https://travis-ci.org/npmtest/node-npmtest-loglevel)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "loglevel": "*",
